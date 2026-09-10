@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 170,
       "digest": "sha256:5a69dc8b7eafcbd3f5538d8b92c9d0f1b73aac02c2efa8242f3273a75235398d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-07-07T10:12:30Z",
       "updated_at": "2026-07-07T10:12:31Z",
       "browser_download_url": "https://github.com/AndrianBdn/wg-cmd/releases/download/v0.1.10/SHA256SUMS"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11225831,
       "digest": "sha256:7c30be45a81e97ed4c8be5a0158ceb77d1f58ef7ba80ff5689af0b09cd4f6b5b",
-      "download_count": 89,
+      "download_count": 91,
       "created_at": "2026-07-07T10:12:31Z",
       "updated_at": "2026-07-07T10:12:32Z",
       "browser_download_url": "https://github.com/AndrianBdn/wg-cmd/releases/download/v0.1.10/wg-cmd-linux-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10448615,
       "digest": "sha256:ea8f35f142780957651a43c0dde2f6fd1b653c8c6b284fe4eb72c6adc6204895",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-07-07T10:12:31Z",
       "updated_at": "2026-07-07T10:12:33Z",
       "browser_download_url": "https://github.com/AndrianBdn/wg-cmd/releases/download/v0.1.10/wg-cmd-linux-arm64"

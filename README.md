@@ -22,7 +22,14 @@ x install wg-cmd
 - **Latest**: `v0.1.10` (2026-07-07)
 - **Last commit**: 2026-07-07
 - **Assets in release**: 3
-- **Published**: 2026-07-07T10:12:09Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [SHA256SUMS](https://github.com/AndrianBdn/wg-cmd/releases/download/v0.1.10/SHA256SUMS) | 170 B | `other` |
+| [wg-cmd-linux-amd64](https://github.com/AndrianBdn/wg-cmd/releases/download/v0.1.10/wg-cmd-linux-amd64) | 10.7 MiB | `native/linux/x64` |
+| [wg-cmd-linux-arm64](https://github.com/AndrianBdn/wg-cmd/releases/download/v0.1.10/wg-cmd-linux-arm64) | 10.0 MiB | `native/linux/arm64` |
 
 ## Popularity
 
@@ -57,8 +64,8 @@ Total: **4,253** lines of code across **63** files in the top 5 languages.
 Install metadata for wg-cmd lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wg-cmd` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/wg-cmd.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/wg-cmd.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:33:30Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:57:45Z._

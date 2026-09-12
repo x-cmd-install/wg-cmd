@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11225831,
       "digest": "sha256:7c30be45a81e97ed4c8be5a0158ceb77d1f58ef7ba80ff5689af0b09cd4f6b5b",
-      "download_count": 96,
+      "download_count": 97,
       "created_at": "2026-07-07T10:12:31Z",
       "updated_at": "2026-07-07T10:12:32Z",
       "browser_download_url": "https://github.com/AndrianBdn/wg-cmd/releases/download/v0.1.10/wg-cmd-linux-amd64"

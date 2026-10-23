@@ -1,0 +1,1 @@
+[{"repo":"aur","srcname":"wg-cmd","binname":"wg-cmd","visiblename":"wg-cmd","version":"0.1.10","origversion":"0.1.10-1","status":"unique","summary":"TUI for managing WireGuard configuration files","maintainers":["trialnerror@aur"],"licenses":["MIT"]}]
